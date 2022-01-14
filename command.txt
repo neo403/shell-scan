@@ -1,0 +1,5 @@
+$ apt update && apt upgrade -y && apt install git -y && apt install python -y && apt install python2 && pip2 install requests  && pip install requests && pip install colorama && pip install colorama 
+$ termux-setup-storage
+$ git clone https://github.com/JaeXploit/shell-scan 
+$ cd shell-scan
+$ python shell.py atau python3 shell.py
